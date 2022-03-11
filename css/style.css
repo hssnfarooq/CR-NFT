@@ -411,9 +411,9 @@ canvas {
 
 .team-cards {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1.5rem;
   margin: 3.5rem 0;
 }
 
